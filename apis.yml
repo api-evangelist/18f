@@ -1,0 +1,32 @@
+aid: 18f
+name: 18F
+description: "Unofficial US Federal Government API Development"
+url: http://18f.github.io/API-All-the-X/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Open Data"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Open Data
+  - Public APIs
+apis:
+  - name: 18F
+    description: "Unofficial US Federal Government API Development"
+    humanURL: http://18f.github.io/API-All-the-X/
+    baseURL: http://18f.github.io/API-All-the-X/
+    tags:
+      - Open Data
+    properties:
+      - type: Documentation
+        url: http://18f.github.io/API-All-the-X/
+common:
+  - type: Website
+    url: http://18f.github.io/API-All-the-X/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
