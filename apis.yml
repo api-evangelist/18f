@@ -5,6 +5,8 @@ url: http://18f.github.io/API-All-the-X/
 specificationVersion: '0.20'
 created: '2026-05-28'
 modified: '2026-05-28'
+deprecated: true
+deprecatedReason: "18F has been discontinued. This profile is retained for historical reference."
 x-source: public-apis/public-apis
 x-category: "Open Data"
 x-tier: 3
